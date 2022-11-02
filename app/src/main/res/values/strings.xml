@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">EcoCulture</string>
+    <string name="app_name">Eco²Culture</string>
+    <string name="textview">TextView</string>
 </resources>
