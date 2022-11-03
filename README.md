@@ -5,7 +5,7 @@
 3. Archive et images
 
 ># 1. TO DO LIST
-> -[x] Création des differentes pages
+-[x] Création des differentes pages
 > -[ ] Application du design
 > -[x] Création de la connection
 > -[x] Création de l'enregistrement
