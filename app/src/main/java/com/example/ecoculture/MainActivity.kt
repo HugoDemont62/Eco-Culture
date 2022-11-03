@@ -18,4 +18,6 @@ class MainActivity : AppCompatActivity() {
             setContentView(R.layout.main_page)
         }, 3000)
     }
+
+
 }
